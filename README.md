@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hidayet Selim ASAN</h1>
-<h3 align="center">Electrical Engineering & Embedded Systems</h3>
+<h3 align="center">Electrical Engineering & Embedded Systems & Digital Design</h3>
 
 - 🎓 Bilkent University 
 
