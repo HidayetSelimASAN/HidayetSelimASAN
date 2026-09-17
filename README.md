@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/HidayetSelimASAN](https://github.com/HidayetSelimASAN)
 
-- 📫 How to reach me **selimieng@gmail.com**
+- 📫 How to reach me **asan.hselim@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
